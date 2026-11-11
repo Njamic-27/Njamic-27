@@ -42,14 +42,23 @@ For my master's thesis I'm working on **autoscaling the Apache Sedona geospatial
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Apache Sedona](https://img.shields.io/badge/Apache_Sedona-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
-<!--
+**Desktop & mobile**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
 ### Featured projects
-We'll fill this in during the portfolio step. Format:
 
 | Project | What it does | Stack |
 |---|---|---|
-| [project-name](https://github.com/Njamic-27/project-name) | One sentence. | Spring Boot · Vue · PostgreSQL · Docker |
--->
+| [FinanceMonthly](https://github.com/Njamic-27/FinanceMonthly) | Personal finance desktop app built around a monthly sheet: accounts, credit cards, installments, loans, savings and 24-month projections | Electron · React · TypeScript · SQLite |
+| [Sedona geo benchmark](https://github.com/Njamic-27/FER-mentor_project) | Benchmarking geospatial SQL queries in Apache Sedona over OpenStreetMap data, with statistics, plots and run comparison | Python · Apache Sedona · Spark · Docker |
+| [PadelPlay](https://github.com/Njamic-27/PadelPlay) | Android app for organizing padel matches, with filters, reminders and sharing | Java · Android · WebView |
+| [WildTrack](https://github.com/orozg5/lovciNa) | Team project at FER: wildlife tracking web app with roles for researchers, trackers and managers | Spring Boot · React · PostgreSQL |
+| [Parktus](https://github.com/Njamic-27/parktus-hackaton) | Find, reserve and navigate to free parking spots; built in 24h at KojiKukac Hackathon | Spring Boot · Svelte · Leaflet |
+| [To-do list (team)](https://github.com/UMH-ATSD/to-do-list-final-app-ferovci) | Task app with teams and roles, built with GitFlow and TDD during Erasmus at UMH | Spring Boot · Thymeleaf · PostgreSQL |
 
 ### Connect
 
