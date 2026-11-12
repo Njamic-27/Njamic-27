@@ -63,6 +63,4 @@ For my master's thesis I'm working on **autoscaling the Apache Sedona geospatial
 ### Connect
 
 [![Email](https://img.shields.io/badge/Email-nikola.jamic%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nikola.jamic@gmail.com)
-<!-- Uncomment and add your LinkedIn URL:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikola_Jamić-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nikola--jamic-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikola-jamic)
